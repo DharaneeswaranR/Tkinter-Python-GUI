@@ -3,4 +3,6 @@ Creating a simple Hours-Mins to Seconds converter with GUI using python [Tkinter
 
 ## To install Tkinter
 You need latest version of Python to use pip installer. Type the below text in your terminal.
-`pip install tkinter`
+```
+pip install tkinter
+```
